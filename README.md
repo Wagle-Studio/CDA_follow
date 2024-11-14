@@ -27,6 +27,7 @@
 ## RDV du vendredi
 
 09:00 début de journée + speed run architecture frontend dans Symfony
+14:00 call Simplon
 
 À la suite :
 

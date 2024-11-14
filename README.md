@@ -2,7 +2,7 @@
 
 | Nom Apprenant | CDC | MCD | Maquettes |
 | ------------- | --- | --- | --------- |
-| Cedric        | 🔍  | 🏗️  | 📭        |
+| Cedric        | 🔍  | ✅  | 📭        |
 | Mathis        | 🔍  | ✅  | ✅        |
 | Jasmine       | ✅  | ✅  | 📭        |
 | Joana         | ✅  | ✅  | ✅        |

@@ -26,7 +26,11 @@
 
 ## RDV du vendredi
 
-- Joana : debug de la pipeline
-- Mathis : échange sur le CDC
-- Gaël : échange sur les pipelines
+09:00 début de journée + speed run architecture frontend dans Symfony
+
+À la suite :
+
+- ☎️ Joana : debug de la pipeline
+- ☎️ Mathis : échange sur le CDC
+- ☎️ Gaël : échange sur les pipelines
 

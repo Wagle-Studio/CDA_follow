@@ -23,3 +23,10 @@
 ❌ Corrections à apporter au(x) document(s)
 
 ✅ Validé par le Gorosei
+
+## RDV du vendredi
+
+- Joana : debug de la pipeline
+- Mathis : échange sur le CDC
+- Gaël : échange sur les pipelines
+

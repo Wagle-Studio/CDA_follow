@@ -27,11 +27,14 @@
 ## RDV du vendredi
 
 09:00 début de journée + speed run architecture frontend dans Symfony
+
+13:30 call Gaël
+
 14:00 call Simplon
 
 À la suite :
 
-- ☎️ Joana : debug de la pipeline
-- ☎️ Mathis : échange sur le CDC
+- ☎️ Joana : debug de la pipeline -> semi-résolu 😵
+- ☎️ Mathis : échange sur le CDC -> done 👍
 - ☎️ Gaël : échange sur les pipelines
 
